@@ -5,5 +5,8 @@
   </head>
   <body>
     <p>Paragraph</p>
+    <?php
+    echo "My first PHP script!";
+    ?>
   </body>
 </html>
